@@ -1,0 +1,13 @@
+name: GlassdoorDSJobs
+title: GlassdoorDSJobs
+username:
+account: elyang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4515569
+bundleId: 4944723
+url: https://elyang.shinyapps.io/GlassdoorDSJobs/
+when: 1629459317.35875
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .ipynb_checkpoints/Glassdoor_cleaning-checkpoint.ipynb|.ipynb_checkpoints/Untitled-checkpoint.ipynb|.ipynb_checkpoints/Untitled1-checkpoint.ipynb|scraper
