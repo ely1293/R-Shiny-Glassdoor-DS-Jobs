@@ -1,1 +1,1 @@
-https://elyang.shinyapps.io/GlassdoorDSJobs/
+https://elyang.shinyapps.io/GlassdoorDataScientistJobs/
